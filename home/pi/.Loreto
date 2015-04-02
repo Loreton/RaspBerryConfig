@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+export PATH=.:$HOME/Loreto/pythonProjects/LnRSync/bin:$HOME/Loreto/proc:$HOME/Loreto/pyProc:$HOME/gitREPO/LN_Git_Utils:$PATH
+export PYTHONPATH=.:$HOME/Loreto/pythonProjects/LnRSync/bin:$HOME/Loreto/pyProc
+alias lnmount='python3 $HOME/Loreto/pyProc/LnMount.py'
+alias lnusb='$HOME/Loreto/pyProc/RS232-3USB-LineData.py'

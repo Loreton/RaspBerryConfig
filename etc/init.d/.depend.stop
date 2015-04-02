@@ -1,0 +1,10 @@
+TARGETS = amule-daemon triggerhappy ifplugd fake-hwclock autofs ddclient smartmontools avahi-daemon lightdm wicd samba plymouth urandom alsa-utils ufw sendsigs cups rsyslog umountnfs.sh nfs-common rpcbind hwclock.sh networking umountfs umountroot halt reboot
+sendsigs: avahi-daemon amule-daemon samba triggerhappy alsa-utils ifplugd lightdm autofs wicd plymouth
+cups: samba
+rsyslog: avahi-daemon autofs sendsigs cups ddclient smartmontools
+umountnfs.sh: avahi-daemon amule-daemon samba triggerhappy alsa-utils ifplugd lightdm autofs wicd plymouth sendsigs rsyslog
+networking: amule-daemon samba ifplugd autofs rpcbind umountnfs.sh
+umountfs: avahi-daemon urandom amule-daemon hwclock.sh samba triggerhappy alsa-utils ifplugd lightdm autofs wicd networking rpcbind plymouth umountnfs.sh
+umountroot: umountfs fake-hwclock
+halt: umountroot
+reboot: umountroot

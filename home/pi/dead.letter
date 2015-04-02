@@ -1,0 +1,288 @@
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+cat: /tmp/diststat.dat: No such file or directory
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+sudo hdparm -f /dev/sda5
+
+/dev/sda5:
+ HDIO_DRIVE_CMD(standby) failed: Invalid argument
+
+/dev/sda5:
+ issuing standby command
+
+
+cat: /tmp/diststat.dat: No such file or directory
+
+
+/home/pi/Loreto/proc/hdparmLN3.sh: line 58: blkid: command not found
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+0
+SIOCDELRT: No such process
+SIOCDELRT: No such process
+SIOCADDRT: Network is unreachable
+SIOCADDRT: Network is unreachable
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+1
+all seems ok
+
+
+/home/pi/Loreto/proc/MyRoute2.sh: line 3: ifconfig: command not found
+1
+all seems ok

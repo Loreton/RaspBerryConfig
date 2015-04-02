@@ -1,0 +1,880 @@
+Xsession: X session started for pi at Thu Aug 22 06:09:46 UTC 2013
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1702 requests (1699 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Thu Aug 22 17:55:47 UTC 2013
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1701 requests (1698 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at mer 28 ago 2013, 14.50.20, CEST
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Openbox-Message: Impossibile trovare il file di menù "/usr/share/lxde/openbox/menu.xml"
+Xlib:  extension "RANDR" missing on display ":1".
+
+** (lxsession-logout:6490): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:6490): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:6490): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6490): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6490): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6490): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+Xlib:  extension "RANDR" missing on display ":1".
+
+** (lxsession-logout:6568): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:6568): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:6568): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6568): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6568): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6568): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+found gettext in path
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xsession: X session started for pi at mer 13 nov 2013, 08.59.04, CET
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Openbox-Message: Impossibile trovare il file di menù "/usr/share/lxde/openbox/menu.xml"
+Xlib:  extension "RANDR" missing on display ":1".
+Xsession: X session started for pi at Sat Dec 27 19:35:02 CET 2014
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:22599): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:22599): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:22599): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:22599): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:22599): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:22601): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:22601): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:22601): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:22601): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:22601): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:22599): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+Pi Store would like your permission to create an 'indiecity' group on this Pi. You may have to enter your sudo password.
+addgroup: The group `indiecity' already exists.
+Added indiecity group.
+Pi Store would like your permission to add the user 'pi' to the indiecity usergroup. You may have to enter your sudo password.
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:22745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+Xsession: X session started for pi at Tue Dec 30 15:37:37 CET 2014
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:5329): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:5329): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:5329): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:5329): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:5329): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:5330): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:5330): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:5330): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:5330): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:5330): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:5329): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(amulegui:5814): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+ 2014-12-30 16:10:50 (remote-GUI): Initialising aMuleGUI 2.3.1 compiled with wxGTK2 v2.8.12
+ 2014-12-30 16:10:50 (remote-GUI): Checking if there is an instance already running...
+ 2014-12-30 16:10:50 (remote-GUI): No other instances are running.
+ 2014-12-30 16:11:07 (remote-GUI): Connecting...
+ 2014-12-30 16:11:07 (remote-GUI): Going to event loop...
+ 2014-12-30 16:11:07 (remote-GUI): Remote GUI EC event handler
+ 2014-12-30 16:11:59 (remote-GUI): Remote GUI EC event handler
+ 2014-12-30 16:11:59 (remote-GUI): Going down
+Xlib:  extension "RANDR" missing on display ":1".
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(amulegui:5999): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+Xsession: X session started for pi at Wed Dec 31 10:59:49 CET 2014
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:3870): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:3870): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:3870): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:3870): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:3870): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:3871): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:3871): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:3871): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:3871): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:3871): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:3870): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(amulegui:3908): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+ 2014-12-31 11:16:03 (remote-GUI): Initialising aMuleGUI 2.3.1 compiled with wxGTK2 v2.8.12
+ 2014-12-31 11:16:03 (remote-GUI): Checking if there is an instance already running...
+!2014-12-31 11:16:03 (remote-GUI): There is an instance of aMuleGUI already running
+ 2014-12-31 11:16:03 (remote-GUI): (lock file: /home/pi/.aMule/muleLockRGUI)
+ 2014-12-31 11:16:03 (remote-GUI): Raising current running instance.
+Xlib:  extension "RANDR" missing on display ":1".
+ 2014-12-31 11:16:47 (remote-GUI): Initialising aMuleGUI 2.3.1 compiled with wxGTK2 v2.8.12
+ 2014-12-31 11:16:47 (remote-GUI): Checking if there is an instance already running...
+!2014-12-31 11:16:47 (remote-GUI): There is an instance of aMuleGUI already running
+ 2014-12-31 11:16:47 (remote-GUI): (lock file: /home/pi/.aMule/muleLockRGUI)
+ 2014-12-31 11:16:47 (remote-GUI): Raising current running instance.
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(lxterminal:4232): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:4232): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:4232): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:4232): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:4232): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:4232): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:4232): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(wxcas:4252): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(alc:4269): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(alc:4269): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(alc:4269): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(alc:4269): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(alc:4269): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+ 2014-12-31 11:19:50 (remote-GUI): Initialising aMuleGUI 2.3.1 compiled with wxGTK2 v2.8.12
+ 2014-12-31 11:19:50 (remote-GUI): Checking if there is an instance already running...
+!2014-12-31 11:19:50 (remote-GUI): There is an instance of aMuleGUI already running
+ 2014-12-31 11:19:50 (remote-GUI): (lock file: /home/pi/.aMule/muleLockRGUI)
+ 2014-12-31 11:19:50 (remote-GUI): Raising current running instance.
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":1"
+      after 33 requests (33 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 39606 requests (39606 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+Xsession: X session started for pi at Wed Dec 31 11:32:18 CET 2014
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:2878): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2878): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2878): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2878): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2878): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2880): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2880): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2880): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2880): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2880): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2878): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(amulegui:2915): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+ 2014-12-31 11:32:38 (remote-GUI): Initialising aMuleGUI 2.3.1 compiled with wxGTK2 v2.8.12
+ 2014-12-31 11:32:38 (remote-GUI): Checking if there is an instance already running...
+ 2014-12-31 11:32:38 (remote-GUI): No other instances are running.
+ 2014-12-31 11:32:47 (remote-GUI): Connecting...
+ 2014-12-31 11:32:47 (remote-GUI): Going to event loop...
+ 2014-12-31 11:32:47 (remote-GUI): Remote GUI EC event handler
+Xlib:  extension "RANDR" missing on display ":1".
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(amulegui:2937): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+ 2014-12-31 11:38:26 (remote-GUI): Initialising aMuleGUI 2.3.1 compiled with wxGTK2 v2.8.12
+ 2014-12-31 11:38:26 (remote-GUI): Checking if there is an instance already running...
+ 2014-12-31 11:38:26 (remote-GUI): No other instances are running.
+ 2014-12-31 11:38:31 (remote-GUI): Connecting...
+ 2014-12-31 11:38:31 (remote-GUI): Going to event loop...
+ 2014-12-31 11:38:31 (remote-GUI): Remote GUI EC event handler
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:3402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(midori:3402): GLib-CRITICAL **: Source ID 5341 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17659 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17677 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17723 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17733 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17744 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17760 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17892 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17902 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17912 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17943 was not found when attempting to remove it
+
+(midori:3402): GLib-CRITICAL **: Source ID 17952 was not found when attempting to remove it
+Xsession: X session started for pi at Thu Jan  1 10:37:00 CET 2015
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:3318): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:3318): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:3318): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:3318): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:3318): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:3319): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:3319): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:3319): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:3319): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:3319): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:3354): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:3318): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:3354): GLib-CRITICAL **: Source ID 3440 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3459 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3470 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3479 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3490 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3503 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3512 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3596 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3607 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3617 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3627 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3641 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3651 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3764 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3772 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3782 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3790 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3803 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 3811 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5031 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5042 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5056 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5136 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5147 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5157 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5171 was not found when attempting to remove it
+
+(midori:3354): GLib-CRITICAL **: Source ID 5181 was not found when attempting to remove it
+Xlib:  extension "RANDR" missing on display ":1".
+
+** (lxsession-logout:3600): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3600): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3600): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3600): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3600): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3600): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+(lxsession-logout:3600): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxsession-logout:3600): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 5451 requests (5451 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+Xsession: X session started for pi at Wed Feb 18 09:26:38 CET 2015
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:2931): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2931): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2931): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2931): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2931): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2932): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2932): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2932): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2932): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2932): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2931): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(amulegui:2969): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+ 2015-02-18 09:27:36 (remote-GUI): Initialising aMuleGUI 2.3.1 compiled with wxGTK2 v2.8.12
+ 2015-02-18 09:27:36 (remote-GUI): Checking if there is an instance already running...
+ 2015-02-18 09:27:36 (remote-GUI): No other instances are running.
+ 2015-02-18 09:27:52 (remote-GUI): Connecting...
+ 2015-02-18 09:27:52 (remote-GUI): Going to event loop...
+ 2015-02-18 09:27:53 (remote-GUI): Remote GUI EC event handler
+Xsession: X session started for pi at Sun Mar  1 12:25:36 CET 2015
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:3086): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:3086): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:3086): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:3086): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:3086): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:3088): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:3088): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:3088): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:3088): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:3088): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:3086): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+Xsession: X session started for pi at Sun Mar  1 12:21:24 CET 2015
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:2989): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2989): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2989): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2989): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2989): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2990): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2990): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2990): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2990): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2990): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2989): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2987): GLib-CRITICAL **: Source ID 13 was not found when attempting to remove it
+
+(openbox:2987): GLib-CRITICAL **: Source ID 14 was not found when attempting to remove it
+Xsession: X session started for pi at Sun Mar 29 11:29:31 CEST 2015
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Obt-Message: XKB extension is not present on the server or too old
+Obt-Message: Xinerama extension is not present on the server
+Obt-Message: XRandR extension is not present on the server
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1".
+
+(lxpanel:5409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:5409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:5409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:5409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:5409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:5410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:5410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:5410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:5410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:5410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(lxterminal:5460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:5460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:5460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:5460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:5460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:5460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:5460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:5409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(java:9401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+Clipboard does not contain a string
+Clipboard does not contain a string
+Xlib:  extension "RANDR" missing on display ":1".
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(java:9772): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+
+
+
+
+
+
+
+
+
+Binary sketch size: 1,968 bytes (of a 30,720 byte maximum)
+Binary sketch size: 1,968 bytes (of a 30,720 byte maximum)
+Binary sketch size: 2,004 bytes (of a 30,720 byte maximum)
+
+
+
+
+
+
+
+
+
+
+Binary sketch size: 2,310 bytes (of a 30,720 byte maximum)
+Xlib:  extension "RANDR" missing on display ":1".
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(java:19462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+Xlib:  extension "RANDR" missing on display ":1".
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(java:25041): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":1"
+      after 33 requests (33 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 38356 requests (38356 known processed) with 0 events r

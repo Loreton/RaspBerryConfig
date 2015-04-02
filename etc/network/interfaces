@@ -1,0 +1,61 @@
+auto lo
+
+iface lo inet loopback
+iface eth0 inet dhcp
+
+# iface eth0 inet static
+    # address 169.254.200.200
+    # netmask 255.255.0.0
+    # gateway 169.254.0.1
+
+
+# =================================================================
+# =      W L A N - 0
+# =      iwlist wlan0 scan
+# =      iwconfig
+# =================================================================
+# ----------- wlan0 manual configuration ---------------
+    # iface wlan0 inet manual
+    # wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
+
+# ----------- wlan0 dhcp configuration ---------------
+# - forziamo la wlan0 con il mac del device:
+# -     /etc/udev/rules.d/70-ln-network.rules
+# -         SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="b8:27:eb:12:c9:5d", ATTR{type}=="1", KERNEL=="eth*", NAME="eth0"
+# -         SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="e8:de:27:09:1b:48", ATTR{type}=="1", KERNEL=="wlan*", NAME="wlan0"
+# -         SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="00:02:72:74:1c:a8", ATTR{type}=="1", KERNEL=="wlan*", NAME="wlan1"
+
+    auto wlan0
+    allow-hotplug wlan0
+    iface wlan0 inet dhcp
+        # indirizziamo il corretto wpa_supplicant
+    wpa-conf /etc/wpa_supplicant/wpa_netgear.conf
+    # wpa-debug-level 3
+
+    # se vogliamo l'indirizzo statico allora possiamo:
+    # 1. definire nel file /etc/wpa_supplicant/wpa_supplicant.conf   il parametro: id_str="NetGear"
+    # 2. Quel parametro viene testato nella riga iface NetGear inet static
+    # 3. Assegnare gli indirizzi
+
+    # iface wlan0 inet manual
+    # iface NetGear inet static
+    # address 192.168.0.33
+    # gateway 192.168.0.1
+    # netmask 255.255.255.0
+
+    # wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
+    # wpa-conf /etc/wpa_Pina.config
+
+# ----------- wlan1 dhcp configuration ---------------
+   auto wlan1
+   allow-hotplug wlan1
+   iface wlan1 inet dhcp
+   wpa-conf /etc/wpa_supplicant/wpa_pina.conf
+    # wpa-debug-level 3
+
+
+    # wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
+    # wpa-conf /etc/wpa_Pina.config
+
+
+iface default inet dhcp

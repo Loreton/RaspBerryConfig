@@ -1,0 +1,1 @@
+sudo rsync -a --archive --chmod=Dug+rx,Du+w,Fugo+r,Fu+w --human-readable --progress --update --numeric-ids --compress --links --protect-args --delete-during --exclude *.log.* --exclude /Thumbs.db --exclude Cache/ --exclude *Cache* --delete-excluded  /media/Ln232GB_B/ /media/WD640GB/Ln232B/Ln232GB_B/ >/tmp/rsync.log
