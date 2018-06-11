@@ -1,0 +1,20 @@
+TARGETS = rsyslog amule-daemon triggerhappy ifplugd killprocs bootlogs motd sudo dbus autofs single ddclient smartmontools dphys-swapfile rsync ntp ssh avahi-daemon lightdm wicd cron cups samba plymouth rc.local rmnologin
+INTERACTIVE =
+dbus: rsyslog
+autofs: rsyslog
+single: killprocs bootlogs motd
+ddclient: rsyslog
+smartmontools: rsyslog
+dphys-swapfile: rsyslog
+rsync: rsyslog
+ntp: rsyslog
+ssh: rsyslog
+avahi-daemon: dbus rsyslog
+lightdm: dbus
+wicd: dbus
+cron: rsyslog autofs
+cups: rsyslog avahi-daemon
+samba: cups
+plymouth: avahi-daemon dbus rsyslog amule-daemon samba cups triggerhappy ifplugd lightdm autofs wicd bootlogs ddclient motd smartmontools dphys-swapfile cron rsync ntp ssh sudo
+rc.local: avahi-daemon dbus rsyslog amule-daemon samba cups triggerhappy ifplugd lightdm autofs wicd bootlogs ddclient motd smartmontools dphys-swapfile cron rsync ntp ssh sudo
+rmnologin: sudo avahi-daemon dbus rsyslog amule-daemon samba cups triggerhappy ifplugd lightdm autofs wicd bootlogs ddclient motd smartmontools dphys-swapfile cron rsync ntp ssh
